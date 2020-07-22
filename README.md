@@ -1,6 +1,6 @@
 ### Hi there 🥂
 
-![visitor badge]( https://visitor-badge.glitch.me/badge?page_id=https://github.com/neal2018/neal2018/edit/master/README.md)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/neal2018/neal2018/edit/master/README.md)
 
 - 🔭 I’m Neal, a creator and a programmer!
 - 🌱 I’m currently learning Algorithm, Risc-V, React, and painting.
