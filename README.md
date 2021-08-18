@@ -2,11 +2,11 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/neal2018/neal2018/edit/master/README.md)
 
-- 🔭 I’m Neal, a creator and a programmer!
-- 🚀 Good at Python, C#, Quant, and making cool things.
-- 💥 Feel free to connect me if you need a collaborator!
-- 💬 Ask me anything on [ama](https://github.com/neal2018/ama).
+- 🔭 Hey, I’m Neal.
+- 🚀 Good at Python, C#, Quant, Web Development, and making cool things.
+- 💥 Feel free to connect me if you need a collaborator.
 - ⚡ It will be great if you could share me some fun and interesting things!
+- 🌱 Currently looking for an internship for Summer 2022.
 
 <!--
 **neal2018/neal2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
