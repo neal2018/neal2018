@@ -7,3 +7,5 @@ Hey, I am Neal. You can also find me in
 https://codeforces.com/profile/Nea1
 
 https://leetcode.com/neal99/
+
+discord: neal#4134
